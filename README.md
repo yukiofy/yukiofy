@@ -1,7 +1,7 @@
 ## Olá, eu sou o Yukio Yabuta 👋
 
 - 📚 Cursando Sistema de Informação 
-- 🌱 Estudando e se aperfeiçoando em toda base de front-end
+- 🌱 Front-end Developer focado em React com domínio em HTML, CSS e JS.
 ##
 
 <div style="display: inline_block"><br>
